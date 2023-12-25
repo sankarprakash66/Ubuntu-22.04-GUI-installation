@@ -1,4 +1,4 @@
-Ubuntu-22.04-GUI-installation
+#Ubuntu-22.04-GUI-installation
 
 In this tutorial you will learn: How to install tasksel How to select GUI from tasksel tasks How to install GUI How to login to newly installed GUI
 Ubuntu 22.04 Install GUI step by step instructions
